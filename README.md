@@ -36,7 +36,7 @@
 
 ### 📫 Let's connect
 
-- [Email](mailto://ibacharnikov@gmail.com)
+- [Email](mailto:ibacharnikov@gmail.com)
 - [Business card website](https://bachar-official.github.io/profile/)
 - [Telegram](https://t.me/Bachar_official)
 
